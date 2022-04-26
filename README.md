@@ -1,6 +1,6 @@
 👋 Hi! My name's Dan and I am a full stack software engineer! I have over a year's experience as a software engineer for 2 different companies.
 
-👨‍💻 My main tech stack is MERN, however I also have commercial experience in AWS, PSQL, TypeScript and much more.
+👨‍💻 My main tech stack is MERN, however I also have commercial experience in AWS, PSQL, TypeScript and much more
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danbeaumont95&show_icons=true&theme=radical)
 
