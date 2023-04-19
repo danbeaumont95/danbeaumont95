@@ -1,6 +1,6 @@
 👋 Hi! My name's Dan and I am a full stack software engineer! I have over 2 year's experience as a software engineer for 3 different companies.
 
-👨‍💻 My main tech stack I've used for these companies is Node.Js, TypeScript, React, Python and AWS.
+👨‍💻 The main tech stack I've used for these companies is Node.Js, TypeScript, React, Python and AWS.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danbeaumont95&show_icons=true&theme=radical)
 
